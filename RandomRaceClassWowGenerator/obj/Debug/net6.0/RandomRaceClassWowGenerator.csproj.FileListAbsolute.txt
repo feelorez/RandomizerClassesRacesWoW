@@ -1,0 +1,15 @@
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\bin\Debug\net6.0\RandomRaceClassWowGenerator.exe
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\bin\Debug\net6.0\RandomRaceClassWowGenerator.deps.json
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\bin\Debug\net6.0\RandomRaceClassWowGenerator.runtimeconfig.json
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\bin\Debug\net6.0\RandomRaceClassWowGenerator.dll
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\bin\Debug\net6.0\RandomRaceClassWowGenerator.pdb
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\RandomRaceClassWowGenerator.csproj.AssemblyReference.cache
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\RandomRaceClassWowGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\RandomRaceClassWowGenerator.AssemblyInfoInputs.cache
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\RandomRaceClassWowGenerator.AssemblyInfo.cs
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\RandomRaceClassWowGenerator.csproj.CoreCompileInputs.cache
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\RandomRaceClassWowGenerator.dll
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\refint\RandomRaceClassWowGenerator.dll
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\RandomRaceClassWowGenerator.pdb
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\RandomRaceClassWowGenerator.genruntimeconfig.cache
+D:\programming\Projects\RandomRaceClassWowGenerator\RandomRaceClassWowGenerator\obj\Debug\net6.0\ref\RandomRaceClassWowGenerator.dll
