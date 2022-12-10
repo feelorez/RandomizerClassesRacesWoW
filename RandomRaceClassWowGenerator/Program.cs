@@ -202,5 +202,7 @@ class Program
                 break;
         }
         Console.WriteLine(sb.ToString());
+        
+        Console.ReadLine();
     }
 }
